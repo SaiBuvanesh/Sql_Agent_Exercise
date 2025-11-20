@@ -83,3 +83,6 @@ If the agent hits a syntax issue or refers to a non-existent column, the log wil
 - ✅ The final correct answer
 
 This feedback loop is what makes the system *agentic* rather than just predictive — it doesn’t stop at generating an answer, it **evaluates, adjusts, and retries**, much like a real analyst would.
+
+### 📌 *When Data and Code Learn to Think: The Rise of Agentic Intelligence*  
+[Read the full blog post](https://medium.com/@arsaibuvanesh/when-data-and-code-learn-to-think-the-rise-of-agentic-intelligence-0ff1db905387?postPublishedType=repub)
